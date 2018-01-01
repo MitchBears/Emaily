@@ -1,0 +1,26 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "Allows users to email surveys to clients.",
+  "main": "index.js",
+  "engines" : {
+    "node": "9.2.1",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchBears/Emaily.git"
+  },
+  "author": "Mitchell Bears",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchBears/Emaily/issues"
+  },
+  "homepage": "https://github.com/MitchBears/Emaily#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
