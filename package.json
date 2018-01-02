@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Allows users to email surveys to clients.",
   "main": "index.js",
-  "engines" : {
+  "engines": {
     "node": "9.2.1",
     "npm": "5.6.0"
   },
@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/MitchBears/Emaily#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0"
   }
 }
